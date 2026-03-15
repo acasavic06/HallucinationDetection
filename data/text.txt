@@ -1,0 +1,15 @@
+king is a strong man
+queen is a wise woman
+boy is a young man
+girl is a young woman
+
+prince is a young king
+princess is a young queen
+
+man is strong
+woman is beautiful
+
+king and queen rule the kingdom
+prince and princess are royal children
+
+man woman boy girl king queen prince princess
